@@ -1,3 +1,3 @@
 import pygame
 
-ssss
+print("natchuki subaru")
